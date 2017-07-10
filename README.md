@@ -1,2 +1,3 @@
 # Hello-world
-Intro to GitHub
+Intro to GitHub!
+Writing for the intro course
